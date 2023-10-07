@@ -39,26 +39,55 @@ Day 2-5: The core team developed a transportation solution based on the feedback
 ### Questionnaire:
 
 On a scale of 1-10, how satisfied are you with the proposed transportation solution?
+
+
 Do you believe your feedback was considered in the final solution? (Yes/No)
+
+
 What elements of the solution do you appreciate the most?
+
+
 What elements of the solution do you think need revision?
+
+
 Would you utilize the proposed transportation solution? (Yes/No)
+
 ## Results (Fake Data):
 
 - Group A (High Participation Group):
 
 Average Satisfaction Score: 7.1/10
+
+
 70% believed their feedback was considered.
+
+
 Most appreciated feature: Increased bus frequency.
+
+
 Most suggested revision: Extended service hours.
+
+
 75% would utilize the proposed solution.
+
+
 - Group B (Moderate Participation Group):
 
 Average Satisfaction Score: 8.7/10
+
+
 90% believed their feedback was considered.
+
+
 Most appreciated feature: New bus routes covering more areas.
+
+
 Most suggested revision: More eco-friendly buses.
+
+
 92% would utilize the proposed solution.
+
+
 ## Conclusion:
 
 The results suggest that Group B, with moderate participation, expressed higher satisfaction with the transportation solution compared to Group A, which had high participation. This indicates that a combination of targeted feedback and expert decision-making might lead to more effective solutions.
